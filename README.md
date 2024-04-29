@@ -258,9 +258,3 @@ Manish mundra,
 Nilesh Gurjar
 
 ## Project Detail
-
-| Flutter Template    | Flutter Base Template          |
-|---------------------|--------------------------------|
-| ERP ID              | I2020-5861                     |
-| Project Manager     | -                              |
-| Tech Lead           | Tarun Malpani                  |
